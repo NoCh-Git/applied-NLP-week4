@@ -1,6 +1,8 @@
-# Session 4 — Applied NLP: Paragraph-Level Text Analysis
+# Session 4 — Applied NLP 
 
-This repository contains the materials for **Session 4** of *Applied Natural Language Processing*.  
+## Paragraph-Level Text Analysis
+
+This repository contains the materials for **Week 4** of *Applied Natural Language Processing*.  
 - Slides: see [`slides/`](./slides/) folder  
 - Notebooks: see [`notebooks/`](./notebooks/) folder 
 ---
